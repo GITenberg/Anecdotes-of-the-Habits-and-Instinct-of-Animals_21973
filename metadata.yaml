@@ -1,0 +1,41 @@
+_repo: Anecdotes-of-the-Habits-and-Instinct-of-Animals_21973
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lee, R., Mrs.
+    alias: Lee, Sarah (Wallis) Bowdich
+    birthdate: 1791
+    deathdate: 1856
+    gutenberg_agent_id: '25001'
+    url: http://www.gutenberg.org/2009/agents/25001
+description: ''
+gutenberg_bookshelf:
+- Children's Instructional Books
+- Biology
+- Animals-Wild
+gutenberg_issued: '2007-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Animal behavior -- Juvenile literature'
+- !lcc 'PZ'
+title: Anecdotes of the Habits and Instinct of Animals
+url: http://www.gutenberg.org/ebooks/21973
