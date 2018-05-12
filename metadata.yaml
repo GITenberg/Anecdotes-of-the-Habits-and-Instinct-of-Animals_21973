@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '25001'
     url: http://www.gutenberg.org/2009/agents/25001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21973#Anecdotes-of-the-Habits-and-Instinct-of-Animals
 gutenberg_bookshelf:
 - Children's Instructional Books
 - Biology
